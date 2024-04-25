@@ -1,11 +1,11 @@
 Model Information:
-* title:	Cloud Station
-* source:	https://sketchfab.com/3d-models/cloud-station-26f81b24d83441ba88c7e80a52adbaaf
-* author:	Alexa Kruckenberg (https://sketchfab.com/AlexaKruckenberg)
+* title:	Robot Playground
+* source:	https://sketchfab.com/3d-models/robot-playground-59fc99d8dcb146f3a6c16dbbcc4680da
+* author:	Hadrien59 (https://sketchfab.com/Hadrien59)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Cloud Station" (https://sketchfab.com/3d-models/cloud-station-26f81b24d83441ba88c7e80a52adbaaf) by Alexa Kruckenberg (https://sketchfab.com/AlexaKruckenberg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Robot Playground" (https://sketchfab.com/3d-models/robot-playground-59fc99d8dcb146f3a6c16dbbcc4680da) by Hadrien59 (https://sketchfab.com/Hadrien59) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
